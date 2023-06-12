@@ -1,0 +1,4 @@
+After successfully create the project you have to write some line of code to loadte the data from json file to django model.
+after write the code you have to load the json data
+ python manage.py load_data file.json
+ N.B. file.json is your json file name
